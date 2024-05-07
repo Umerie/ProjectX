@@ -1,3 +1,4 @@
+/*
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -65,4 +66,26 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+*/
+
+
+body{
+  padding:0px;
+  margin:0px;
+}
+
+:root{
+  --slate100: #eef2ff;
+  --slate200: #e0e7ff;
+  --slate300: #c7d2fe;
+  --slate400: #a5b4fc;
+  --slate500: #818cf8;
+  --slate600: #6366f1;
+  --slate700: #4f46e5;
+  --slate800: #4338ca;
+  --slate900: #3730a3;
+  --slate950: #312e81;
+  --slate1000: #110f28;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
